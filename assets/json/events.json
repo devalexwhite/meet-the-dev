@@ -1,0 +1,56 @@
+[
+    {
+        "date": "1 Apr 2019",
+        "icon": "💼",
+        "title": "Senior UX Developer @ Insight Digital Innovation",
+        "description": "Promoted ",
+        "category": "💼 Career"
+    },
+    {
+        "date": "28 Feb 2018",
+        "icon": "💼",
+        "title": "Staff UX Developer @ Cardinal Solutions",
+        "description": "Front-end developer and consultant at Cardinal Solutions.",
+        "category": "💼 Career"
+    },
+    {
+        "date": "8 Oct 2018",
+        "icon": "🗣",
+        "title": "Code & Beer: Print Stylesheets",
+        "description": "Presented on techniques for developing print-friendly websites.",
+        "category": "🗣 Talks",
+        "action": {
+            "title": "Download Slides",
+            "link": "https://github.com/devalexwhite/print-styles-presentation"
+        }
+    },
+    {
+        "date": "4 Mar 2019",
+        "icon": "💻",
+        "title": "Product Launch: GiveYaw",
+        "description": "Launched a low-friction tool for creating social media giveaways. Built with Vue and serverless.",
+        "category": "💻 Projects",
+        "action": {
+            "title": "View Launch",
+            "link": "https://www.producthunt.com/posts/giveyaw"
+        }
+    },
+    {
+        "date": "12 Oct 2017",
+        "icon": "💻",
+        "title": "Product Launch: MetaShort",
+        "description": "Launched a one of a kind tool for social media marketers that enabled the customization of any link's meta tags. Built with PHP.",
+        "category": "💻 Projects",
+        "action": {
+            "title": "View Launch",
+            "link": "https://www.producthunt.com/posts/metashort"
+        }
+    },
+    {
+        "date": "6 Jun 2017",
+        "icon": "💼",
+        "title": "Started at ProZ.com",
+        "description": "Worked as a fully remote full-stack web developer. Was responsible for all stages of feature development (concept, design, development, advertising, community engagement).",
+        "category": "💼 Career"
+    }
+]
