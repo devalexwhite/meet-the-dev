@@ -139,5 +139,15 @@
         "title": "Musashi University, Tokyo",
         "description": "Completed a 4 month language exchange program in Tokyo, Japan.",
         "category": "🏫 Education"
+    },
+    {
+        "date": "16 Nov 2018",
+        "icon":"💻",
+        "title": "Sclask Release",
+        "description": "Web app for recording scores for office games. Records scores across multiple users and game types and provides predicitions for matches. Created in .NET Core and Vue, deployed via Dokku on Digital Ocean.",
+        "action": {
+            "title": "View code",
+            "link": "https://github.com/devalexwhite/Sclask"
+        }
     }
 ]
