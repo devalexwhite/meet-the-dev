@@ -3,7 +3,7 @@
         <filter-item 
             v-for="(filter, i) in filters"
             :key="i"
-            :v-model="filter.checked">
+            :value="filter">
             {{filter.name}}
         </filter-item> 
     </ul>
@@ -17,14 +17,9 @@ export default {
         FilterItem,
     },
     computed: {
-        filters: { 
-            get: function() {
-                return this.$store.state.filters;
-            },
-            set: function(value) {
-                this.$store.commit('setChecked', { name: name, checked: value})
-            }
-        }
+        filters: function() {
+            return this.$store.state.filters;
+        },
     },
 }
 </script>

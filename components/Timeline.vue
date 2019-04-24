@@ -6,13 +6,15 @@
             :key="year"
         >
             <h3 class="text-purple-darker font-bold text-lg mb-4">{{year}}</h3>
-            <div class="timeline-month">
+            <!-- <div class="timeline-month"> -->
+            <transition-group name="timeline-list" tag="div">
                 <timeline-entry 
                     v-for="event in getEvents(year)" 
                     :key="event.title"
                     :value="event"
                 />
-            </div>
+            </transition-group>
+            <!-- </div> -->
         </div>
     </section>
 </template>
@@ -44,6 +46,8 @@ export default {
 }
 </script>
 
-<style>
-
+<style scoped>
+    .timeline-list-move {
+        transition: transform 0.5s;
+    }
 </style>
