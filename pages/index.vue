@@ -4,7 +4,7 @@
       <article class="about flex flex-col items-center md:items-start">
         <img class="mb-8" src="profile.png" width="240" height="240" alt="Picture of Alex White"/>
         <h1 class="font-normal text-4xl mb-4 text-purple-darkest">Alex White</h1>
-        <p class="mb-8 text-lg text-purple-darker leading-normal max-w-xs text-center md:text-left">Hi! I’m a Senior UX Developer and serial maker from Columbus Ohio.</p>
+        <p class="mb-8 text-lg text-purple-darker leading-normal max-w-xs text-center md:text-left">Hi! I’m a Senior UX Developer and product maker from Columbus Ohio.</p>
         <ul class="contact list-reset flex flex-row md:flex-col flex-wrap">
           <li class="mb-2 mr-4 md:mr-0 justify-center">
             <a class="no-underline text-blue-light text-lg" href="https://twitter.com/AlexWhiteDev" target="_blank">@AlexWhiteDev</a>
