@@ -1,5 +1,5 @@
 <template>
-    <div class="timeline-day" v-if="visible">
+    <div class="timeline-day">
         <h4 class="text-purple-darker font-normal text-lg mb-2">
             {{formatDate(value.date)}}
         </h4>
@@ -34,11 +34,6 @@
 
 <script>
 export default {
-    computed: {
-        visible: function() {
-            return this.$store.state.filters.some(f => f.checked && f.name === this.$props.value.category);
-        },
-    },
     methods: {
         formatDate(date = new Date()) {
             return date.toDateString().replace(date.getFullYear().toString(), "");

@@ -5,16 +5,18 @@
             v-for="year in years" 
             :key="year"
         >
-            <h3 class="text-purple-darker font-bold text-lg mb-4">{{year}}</h3>
-            <!-- <div class="timeline-month"> -->
-            <transition-group name="timeline-list" tag="div">
-                <timeline-entry 
+            <h3 v-if="getEvents(year).length" class="text-purple-darker font-bold text-lg mb-4">{{year}}</h3>
+            <ul>
+                <li
                     v-for="event in getEvents(year)" 
+                    class="timeline-list-item"
                     :key="event.title"
-                    :value="event"
-                />
-            </transition-group>
-            <!-- </div> -->
+                >
+                    <timeline-entry 
+                        :value="event"
+                    />
+                </li>
+            </ul>
         </div>
     </section>
 </template>
@@ -26,9 +28,15 @@ export default {
     components: {
         TimelineEntry,
     },
+    computed: {
+        filteredEvents: function() {
+            return this.$props.events
+                .filter(e => this.$store.state.filters.some(f => f.checked && f.name === e.category));
+        },
+    },
     methods: {
         getEvents(year = "") {
-            return this.$props.events
+            return this.filteredEvents
                 .filter(e => e.date.getFullYear().toString() == year)
                 .sort((a,b) => b.date - a.date);
         },
@@ -47,7 +55,18 @@ export default {
 </script>
 
 <style scoped>
-    .timeline-list-move {
-        transition: transform 0.5s;
+    ul {
+        margin: 0;
+        padding: 0;
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+    .timeline-list-item {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        position: relative;
     }
 </style>
