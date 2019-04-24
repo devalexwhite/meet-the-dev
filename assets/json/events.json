@@ -145,6 +145,7 @@
         "icon":"💻",
         "title": "Sclask Release",
         "description": "Web app for recording scores for office games. Records scores across multiple users and game types and provides predicitions for matches. Created in .NET Core and Vue, deployed via Dokku on Digital Ocean.",
+        "category":"💻 Projects",
         "action": {
             "title": "View code",
             "link": "https://github.com/devalexwhite/Sclask"
