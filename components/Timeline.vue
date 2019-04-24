@@ -5,18 +5,20 @@
             v-for="year in years" 
             :key="year"
         >
-            <h3 v-if="getEvents(year).length" class="text-purple-darker font-bold text-lg mb-4">{{year}}</h3>
-            <ul>
-                <li
-                    v-for="event in getEvents(year)" 
-                    class="timeline-list-item"
-                    :key="event.title"
-                >
-                    <timeline-entry 
-                        :value="event"
-                    />
-                </li>
-            </ul>
+            <div v-if="getEvents(year).length">
+                <h3 class="text-purple-darker font-bold text-lg mb-4">{{year}}</h3>
+                <ul>
+                    <li
+                        v-for="event in getEvents(year)" 
+                        class="timeline-list-item"
+                        :key="event.title"
+                    >
+                        <timeline-entry 
+                            :value="event"
+                        />
+                    </li>
+                </ul>
+            </div>
         </div>
     </section>
 </template>
