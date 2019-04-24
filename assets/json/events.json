@@ -3,14 +3,14 @@
         "date": "1 Apr 2019",
         "icon": "💼",
         "title": "Senior UX Developer @ Insight Digital Innovation",
-        "description": "Promoted ",
+        "description": "Promoted from Staff UX Developer to Senior UX Developer. More involved in providing mentorship, pre-sales discussions and company events.",
         "category": "💼 Career"
     },
     {
         "date": "28 Feb 2018",
         "icon": "💼",
         "title": "Staff UX Developer @ Cardinal Solutions",
-        "description": "Front-end developer and consultant at Cardinal Solutions.",
+        "description": "Front-end developer and consultant at Cardinal Solutions. Responsible for front-end development, design, mentorship and communicating with clients.",
         "category": "💼 Career"
     },
     {
@@ -22,6 +22,39 @@
         "action": {
             "title": "Download Slides",
             "link": "https://github.com/devalexwhite/print-styles-presentation"
+        }
+    },
+    {
+        "date": "9 Oct 2018",
+        "icon": "🗣",
+        "title": "Front End Columbus: Print Stylesheets",
+        "description": "Presented on techniques for developing print-friendly websites.",
+        "category": "🗣 Talks",
+        "action": {
+            "title": "Download Slides",
+            "link": "https://github.com/devalexwhite/print-styles-presentation"
+        }
+    },
+    {
+        "date": "8 Nov 2018",
+        "icon":"🗣",
+        "title": "Code & Beer: Quickly Deploying .NET Core Applications on Digital Ocean with Dokku",
+        "description": "Live demonstration of deploying a .NET Core & PostgrSQL application using Docker, Dokku and Digital Ocean.",
+        "category":"🗣 Talks",
+        "action": {
+            "title": "Download Slides",
+            "link": "https://docs.google.com/presentation/d/1tzXbzYfHAriRgrPdlgehhMyuFhogFZ60T1gwPJl1VMo/edit?usp=sharing"
+        }
+    },
+    {
+        "date": "30 Sept 2017",
+        "icon": "🗣",
+        "title": "ProZ.com Translators Day: Native Language Verification",
+        "description": "Gave a live presentation on ProZ.com's Native Language Verification during their digital Translators Day event.",
+        "category":"🗣 Talks",
+        "action": {
+            "title": "View",
+            "link": "https://livestream.com/ProZ/ITD2017/videos/163454378"
         }
     },
     {
@@ -52,5 +85,59 @@
         "title": "Started at ProZ.com",
         "description": "Worked as a fully remote full-stack web developer. Was responsible for all stages of feature development (concept, design, development, advertising, community engagement).",
         "category": "💼 Career"
+    },
+    {
+        "date": "5 Sep 2018",
+        "icon": "🖊",
+        "title": "Termination of MetaShort.co Service",
+        "description": "I am sad to announce that I will be shutting down the MetaShort service, effective immediately. MetaShort has been a wonderful project to work on, and it has been amazing seeing the number of people that found value in the product. Unfortunately the project has…",
+        "category": "🖊 Writing",
+        "action": {
+            "title": "Read more",
+            "link": "https://medium.com/@AlexWhiteDev/termination-of-metashort-co-service-1ff4892681e"
+        }
+    },
+    {
+        "date": "31 Oct 2017",
+        "icon": "🖊",
+        "title": "My experience going from idea to #3 on ProductHunt in under a month",
+        "description": "On September 14th I created a folder called “finish me” on my desktop.This was the start of another silly idea that was going to distract me from the idea I was already working on (and grow into the #3 product on ProductHunt less than a month later).",
+        "category":"🖊 Writing",
+        "action": {
+            "title":"Read more",
+            "link": "https://entrepreneurshandbook.co/my-experience-going-from-idea-to-3-on-producthunt-in-under-a-month-c5e41f46d647"
+        }
+    },
+    {
+        "date": "9 Feb 2018",
+        "icon":"🖊",
+        "title": "The fight for your rental deposit",
+        "description": "I’ve jumped between apartments quite a bit over the past 7 years. My first time renting I was naive, I didn’t take pictures when moving in and I expected that if left the place in a fairly good condition I would get my deposit back. Many apartments (and a couple of lawyers) later, and I’ve wised up to the fact that you have to fight for your rental deposit.",
+        "category":"🖊 Writing",
+        "action": {
+            "title":"Read more",
+            "link": "https://medium.com/@AlexWhiteDev/the-fight-for-your-rental-deposit-1c07c7a33722"
+        }
+    },
+    {
+        "date": "1 Sept 2015",
+        "icon":"💼",
+        "title": "Web Applications Developer @ Fisher College of Business (OSU)",
+        "description": "PHP and front-end developer working on custom Drupal solutions.",
+        "category":"💼 Career"
+    },
+    {
+        "date": "1 April 2015",
+        "icon": "🏫",
+        "title": "Graduated from Ohio University",
+        "description": "Bachelor of Science in Computer Science",
+        "category": "🏫 Education"
+    },
+    {
+        "date": "28 Dec 2012",
+        "icon": "🏫",
+        "title": "Musashi University, Tokyo",
+        "description": "Completed a 4 month language exchange program in Tokyo, Japan.",
+        "category": "🏫 Education"
     }
 ]
