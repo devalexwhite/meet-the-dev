@@ -15,6 +15,8 @@ export default {
       { hid: 'description', name: 'description', content: "I'm Alex White, UX Developer and product maker." },
       { property: 'og:description', content: "I'm Alex White, UX Developer and product maker." },
       { property: 'og:image', content: 'https://meetthe.dev/profile.png' },
+      { property: 'og:image:width', content: '466' },
+      { property: 'og:image:height', content: '466' },
       { name: 'twitter:creator', content: '@AlexWhiteDev' },
       { name: 'twitter:image', content: 'https://meetthe.dev/profile.png' },
       { name: 'twitter:card', content: 'summary_large_image' }
