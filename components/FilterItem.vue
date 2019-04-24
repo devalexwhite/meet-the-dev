@@ -36,7 +36,7 @@ export default {
 
 <style lang="postcss" scoped>
     li {
-        @apply rounded-lg mr-4 px-3 py-1 cursor-pointer;
+        @apply rounded-lg mr-4 px-4 py-2 cursor-pointer;
     }
 
     li {

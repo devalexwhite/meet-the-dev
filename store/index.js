@@ -10,7 +10,14 @@ export const mutations = {
         }));
     },
     setChecked(state, { name, checked }) {
-        const target = state.filters.find(f => f.name == name);
-        target.checked = checked;
+        if (state.filters.some(f => !f.checked)) {
+            const target = state.filters.find(f => f.name == name);
+            target.checked = checked;
+        } else {
+            state.filters.forEach(f => {
+                if (f.name !== name) { f.checked = false; }
+                else { f.checked = true }
+            });
+        }
     },
 };
