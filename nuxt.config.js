@@ -11,7 +11,7 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: 'Meet Alex White, UX Developer and product maker.' },
+      { hid: 'description', name: 'description', content: "I'm Alex White, UX Developer and product maker." },
       { property: 'og:image', content: 'profile.png' },
       { property: 'twitter:image', content: 'profile.png' },
       { property: 'twitter:card', content: 'summary_large_image' }
