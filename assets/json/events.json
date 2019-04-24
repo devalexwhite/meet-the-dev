@@ -150,5 +150,16 @@
             "title": "View code",
             "link": "https://github.com/devalexwhite/Sclask"
         }
+    },
+    {
+        "date": "24 Apr 2019",
+        "icon":"💻",
+        "title": "MeetTheDev Open Source Release",
+        "description": "LinkedIn meets GitHub's profile timeline. An open-source template to create easily maintainable developer portfolios.",
+        "category":"💻 Projects",
+        "action": {
+            "title": "View code",
+            "link": "https://gitlab.com/devalexwhite/meetthedev"
+        }
     }
 ]
