@@ -1,6 +1,6 @@
 ![Screenshot of project](screenshot.png)
 
-# MeetTheDev: A Timeline Based Portfolio Website
+# MeetTheDev: A Timeline Based Portfolio Website ([Example](https://meetthe.dev))
 
 MeetTheDev is a personal portfolio template that lays out your projects, work history, presentations, education history and more in a filterable timeline.
 
