@@ -14,10 +14,10 @@ export default {
       { property: 'og:title', content: "👋 Meet Alex White" },
       { hid: 'description', name: 'description', content: "I'm Alex White, UX Developer and product maker." },
       { property: 'og:description', content: "I'm Alex White, UX Developer and product maker." },
-      { property: 'og:image', content: 'meetthe.dev/profile.png' },
-      { property: 'twitter:creator', content: '@AlexWhiteDev' },
-      { property: 'twitter:image', content: 'meetthe.dev/profile.png' },
-      { property: 'twitter:card', content: 'summary_large_image' }
+      { property: 'og:image', content: 'https://meetthe.dev/profile.png' },
+      { name: 'twitter:creator', content: '@AlexWhiteDev' },
+      { name: 'twitter:image', content: 'https://meetthe.dev/profile.png' },
+      { name: 'twitter:card', content: 'summary_large_image' }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
