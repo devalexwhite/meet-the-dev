@@ -1,0 +1,28 @@
+{
+    "name": "Alex White",
+    "summary": "Front-end developer, product maker, husband, dog father. Coding in Columbus, OH.",
+    "picture": "profile.png",
+    "picture_alt": "Headshot of Alex White",
+    "links": [
+        {
+            "title": "🐥 Twitter",
+            "href": "https://twitter.com/AlexWhiteDev"
+        },
+        {
+            "title": "💌 Email",
+            "href": "mailto:devalexwhite@pm.me"
+        },
+        {
+            "title": "💻 GitLab",
+            "href": "https://gitlab.com/devalexwhite"
+        },
+        {
+            "title": "💻 GitHub",
+            "href": "http://github.com/devalexwhite"
+        },
+        {
+            "title": "💼 LinkedIn",
+            "href": "https://www.linkedin.com/in/devalexwhite/"
+        }
+    ]
+}
