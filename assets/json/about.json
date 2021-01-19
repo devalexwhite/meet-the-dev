@@ -5,16 +5,8 @@
     "picture_alt": "Headshot of Alex White",
     "links": [
         {
-            "title": "🐥 Twitter",
-            "href": "https://twitter.com/AlexWhiteDev"
-        },
-        {
             "title": "💌 Email",
             "href": "mailto:devalexwhite@pm.me"
-        },
-        {
-            "title": "💻 GitLab",
-            "href": "https://gitlab.com/devalexwhite"
         },
         {
             "title": "💻 GitHub",

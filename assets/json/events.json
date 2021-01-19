@@ -1,5 +1,16 @@
 [
     {
+        "date": "30 July 2020",
+        "icon": "💻",
+        "title": "Launch: Front End Columbus Website",
+        "description": "Designed, developed and launched the Front End Columbus website to provide a place for our community to connect with others, learn about meetings, and find/post local jobs.",
+        "category": "💻 Projects",
+        "action": {
+            "title": "View",
+            "link": "https://frontendcolumbus.com"
+        }
+    },
+    {
         "date": "1 Apr 2019",
         "icon": "💼",
         "title": "Senior UX Developer @ Insight Digital Innovation",

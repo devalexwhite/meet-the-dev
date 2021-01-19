@@ -1,15 +1,18 @@
 <template>
-    <div class="timeline-day">
-        <h4 class="text-purple-darker font-normal text-lg mb-2">
-            {{formatDate(value.date)}}
-        </h4>
-        <article class="max-w-lg timeline-entry px-6 py-4 mb-6 flex flex-row rounded-lg border border-grey-light shadow bg-white">
-            <div class="entry-icon text-3xl text-blue-light mr-6">
+    <div class="timeline-day ml-4">
+        <article class="max-w-lg timeline-entry py-4 mb-6 flex flex-row rounded-lg  bg-white">
+            <div class="entry-icon text-3xl text-blue-light -ml-8 pr-8">
+                <span class="bg-white py-4">
+
                 {{value.icon}}
+                </span>
             </div>
             <div class="entry-content max-w-sm">
                 <div class="entry-text mb-6">
                     <header class="mb-1">
+                        <h4 class="text-purple-darker font-bold text-lg mb-2">
+                            {{formatDate(value.date)}}
+                        </h4>   
                         <h1 class="text-black font-normal text-xl">
                             {{value.title}}
                         </h1>

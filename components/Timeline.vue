@@ -1,13 +1,13 @@
 <template>
-    <section class="timeline-container">
+    <section class="timeline-container px-6 md:px-0">
         <div 
             class="timeline-year mb-16" 
             v-for="year in years" 
             :key="year"
         >
             <div v-if="getEvents(year).length">
-                <h3 class="text-purple-darker font-bold text-lg mb-4">{{year}}</h3>
-                <ul>
+                <h3 class="text-purple-darker font-bolder text-5xl mb-6 -ml-4">{{year}}</h3>
+                <ul class="border-l border-grey-light">
                     <li
                         v-for="event in getEvents(year)" 
                         class="timeline-list-item"
