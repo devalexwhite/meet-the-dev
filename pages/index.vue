@@ -13,7 +13,7 @@
       </article>
     </aside>
     <section class="content w-full px-6 md:px-0">
-      <filters />
+      <filters class="-ml-4"/>
       <timeline
         :years="years"
         :events="events"
