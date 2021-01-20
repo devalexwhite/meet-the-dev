@@ -11,6 +11,17 @@
         }
     },
     {
+        "date": "1 Jan 2020",
+        "icon": "🗣",
+        "title": "CodeMash Conference: Design & Research Fundamentals for Developers",
+        "category":"🗣 Talks",
+        "description": "Presented a 4-hour conference workshop teaching the basics of UX design and research. Participants went through the UX process of discovery, design and usability testing.",
+        "action": {
+            "title": "View Abstract",
+            "link": "https://www.codemash.org/session-details/?id=145603"
+        }
+    },
+    {
         "date": "1 Apr 2019",
         "icon": "💼",
         "title": "Senior UX Developer @ Insight Digital Innovation",
