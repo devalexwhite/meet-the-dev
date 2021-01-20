@@ -5,7 +5,7 @@
         <img class="mb-8 overflow-hidden rounded-full" :src="profileImage.source" width="240" height="240" :alt="profileImage.alt"/>
         <h1 class="font-normal text-4xl mb-4 text-purple-darkest text-center w-full">{{ name }}</h1>
         <p class="mb-8 text-normal text-purple-darker leading-normal max-w-xs text-center">{{ summary }}</p>
-        <ul class="contact list-reset flex flex-row md:flex-col flex-wrap" v-if="links.length">
+        <ul class="contact list-reset flex flex-row md:flex-col flex-wrap mx-auto" v-if="links.length">
           <li class="mb-2 mr-4 md:mr-0 justify-center" v-for="link in links" :key="link.href">
             <a class="no-underline text-blue-light text-lg" :href="link.href" target="_blank">{{ link.title }}</a>
           </li>

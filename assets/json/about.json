@@ -5,6 +5,10 @@
     "picture_alt": "Headshot of Alex White",
     "links": [
         {
+            "title": "📄 Resume",
+            "href": "/alex_white_resume.pdf"
+        },
+        {
             "title": "💌 Email",
             "href": "mailto:alex@meetthe.dev"
         },
