@@ -1,5 +1,16 @@
 [
     {
+        "date": "21 Jan 2021",
+        "icon": "🖊",
+        "title": "Up and running in minutes with Tailwind CSS and Alpine.js",
+        "description": "Finding the time to work on side projects is tough, and the last thing you want to do is spend that time just getting your project to build. I'll show you how to leverage Parcel Bundler to get up and running in just a few minutes!",
+        "category": "🖊 Writing",
+        "action": {
+            "title": "Read article",
+            "link": "https://alexwhitedev.medium.com/up-and-running-in-minutes-with-tailwind-css-and-alpine-js-55e34d56868a?source=portfolio"
+        }
+    },
+    {
         "date": "30 July 2020",
         "icon": "💻",
         "title": "Launch: Front End Columbus Website",
@@ -14,7 +25,7 @@
         "date": "1 Jan 2020",
         "icon": "🗣",
         "title": "CodeMash Conference: Design & Research Fundamentals for Developers",
-        "category":"🗣 Talks",
+        "category": "🗣 Talks",
         "description": "Presented a 4-hour conference workshop teaching the basics of UX design and research. Participants went through the UX process of discovery, design and usability testing.",
         "action": {
             "title": "View Abstract",
@@ -59,10 +70,10 @@
     },
     {
         "date": "8 Nov 2018",
-        "icon":"🗣",
+        "icon": "🗣",
         "title": "Code & Beer: Quickly Deploying .NET Core Applications on Digital Ocean with Dokku",
         "description": "Live demonstration of deploying a .NET Core & PostgrSQL application using Docker, Dokku and Digital Ocean.",
-        "category":"🗣 Talks",
+        "category": "🗣 Talks",
         "action": {
             "title": "Download Slides",
             "link": "https://docs.google.com/presentation/d/1tzXbzYfHAriRgrPdlgehhMyuFhogFZ60T1gwPJl1VMo/edit?usp=sharing"
@@ -73,7 +84,7 @@
         "icon": "🗣",
         "title": "ProZ.com Translators Day: Native Language Verification",
         "description": "Gave a live presentation on ProZ.com's Native Language Verification during their digital Translators Day event.",
-        "category":"🗣 Talks",
+        "category": "🗣 Talks",
         "action": {
             "title": "View",
             "link": "https://livestream.com/ProZ/ITD2017/videos/163454378"
@@ -124,29 +135,29 @@
         "icon": "🖊",
         "title": "My experience going from idea to #3 on ProductHunt in under a month",
         "description": "On September 14th I created a folder called “finish me” on my desktop.This was the start of another silly idea that was going to distract me from the idea I was already working on (and grow into the #3 product on ProductHunt less than a month later).",
-        "category":"🖊 Writing",
+        "category": "🖊 Writing",
         "action": {
-            "title":"Read more",
+            "title": "Read more",
             "link": "https://entrepreneurshandbook.co/my-experience-going-from-idea-to-3-on-producthunt-in-under-a-month-c5e41f46d647"
         }
     },
     {
         "date": "9 Feb 2018",
-        "icon":"🖊",
+        "icon": "🖊",
         "title": "The fight for your rental deposit",
         "description": "I’ve jumped between apartments quite a bit over the past 7 years. My first time renting I was naive, I didn’t take pictures when moving in and I expected that if left the place in a fairly good condition I would get my deposit back. Many apartments (and a couple of lawyers) later, and I’ve wised up to the fact that you have to fight for your rental deposit.",
-        "category":"🖊 Writing",
+        "category": "🖊 Writing",
         "action": {
-            "title":"Read more",
+            "title": "Read more",
             "link": "https://medium.com/@AlexWhiteDev/the-fight-for-your-rental-deposit-1c07c7a33722"
         }
     },
     {
         "date": "1 Sept 2015",
-        "icon":"💼",
+        "icon": "💼",
         "title": "Web Applications Developer @ Fisher College of Business (OSU)",
         "description": "PHP and front-end developer working on custom Drupal solutions.",
-        "category":"💼 Career"
+        "category": "💼 Career"
     },
     {
         "date": "1 April 2015",
@@ -164,10 +175,10 @@
     },
     {
         "date": "16 Nov 2018",
-        "icon":"💻",
+        "icon": "💻",
         "title": "Sclask Release",
         "description": "Web app for recording scores for office games. Records scores across multiple users and game types and provides predicitions for matches. Created in .NET Core and Vue, deployed via Dokku on Digital Ocean.",
-        "category":"💻 Projects",
+        "category": "💻 Projects",
         "action": {
             "title": "View code",
             "link": "https://github.com/devalexwhite/Sclask"
@@ -175,10 +186,10 @@
     },
     {
         "date": "24 Apr 2019",
-        "icon":"💻",
+        "icon": "💻",
         "title": "MeetTheDev Open Source Release",
         "description": "LinkedIn meets GitHub's profile timeline. An open-source template to create easily maintainable developer portfolios.",
-        "category":"💻 Projects",
+        "category": "💻 Projects",
         "action": {
             "title": "View code",
             "link": "https://gitlab.com/devalexwhite/meetthedev"
@@ -186,10 +197,10 @@
     },
     {
         "date": "4 June 2019",
-        "icon":"🗣",
+        "icon": "🗣",
         "title": "Westerville Web: It's okay to be bad",
         "description": "What if you stopped worrying about technology, design, and scalability and instead shipped your side-projects? Whether you’re a developer or not, everyone has ideas for the next big thing. Learn how to stop adding to your idea graveyard by not sweating the small stuff and instead using the tools you know to build and release products (even if they are a bit rough around the edges).",
-        "category":"🗣 Talks",
+        "category": "🗣 Talks",
         "action": {
             "title": "View",
             "link": "https://www.meetup.com/westervilleweb/events/258354879/"
@@ -197,9 +208,9 @@
     },
     {
         "date": "30 May 2019",
-        "icon":"🗣",
+        "icon": "🗣",
         "title": "Code & Beer: It's okay to be bad",
         "description": "What if you stopped worrying about technology, design, and scalability and instead shipped your side-projects? Whether you’re a developer or not, everyone has ideas for the next big thing. Learn how to stop adding to your idea graveyard by not sweating the small stuff and instead using the tools you know to build and release products (even if they are a bit rough around the edges).",
-        "category":"🗣 Talks"
+        "category": "🗣 Talks"
     }
 ]
