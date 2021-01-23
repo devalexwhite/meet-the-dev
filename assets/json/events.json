@@ -22,6 +22,39 @@
         }
     },
     {
+        "date": "6 July 2020",
+        "icon": "🖊",
+        "title": "A simple case for chatbot websites.",
+        "description": "I found the idea of chatbots very exciting when the trend started a few years ago, to the point that I tried to build a startup around chatbot based food delivery (it didn’t go well). The allure to me was the potential to simplify the web. Chatbots allow you to break down complex websites into a decision tree of actions, rather than a scavenger hunt of links.",
+        "category": "🖊 Writing",
+        "action": {
+            "title": "Read article",
+            "link": "https://alexwhitedev.medium.com/a-simple-case-for-chatbot-websites-21c4b5ec5cca"
+        }
+    },
+    {
+        "date": "19 Jan 2020",
+        "icon": "🖊",
+        "title": "The Art of Validating Quickly",
+        "description": "You’ve refined cards, drawn sketches and created designs, but now you need a way to get your product in-front of real users. Without user feedback, how do you know if you’re on the right track?",
+        "category": "🖊 Writing",
+        "action": {
+            "title": "Read article",
+            "link": "https://alexwhitedev.medium.com/the-art-of-validating-quickly-8b698c183f17"
+        }
+    },
+    {
+        "date": "4 Jan 2020",
+        "icon": "🖊",
+        "title": "Need a blog? Use GitHub as your CMS.",
+        "description": "Why install Wordpress, Drupal or Ghost when you can use the markdown editor and pull request functionality of GitHub as the backend for your next blog?",
+        "category": "🖊 Writing",
+        "action": {
+            "title": "Read article",
+            "link": "https://alexwhitedev.medium.com/need-a-blog-use-github-as-your-cms-a92b0a6c8161"
+        }
+    },
+    {
         "date": "1 Jan 2020",
         "icon": "🗣",
         "title": "CodeMash Conference: Design & Research Fundamentals for Developers",
@@ -30,6 +63,28 @@
         "action": {
             "title": "View Abstract",
             "link": "https://www.codemash.org/session-details/?id=145603"
+        }
+    },
+    {
+        "date": "19 Oct 2019",
+        "icon": "🖊",
+        "title": "The Importance of Full-Stack UX",
+        "description": "As a frontend developer, its hard to avoid the necessity of knowing how backend systems work. Heck, you’ll probably even be required to gasp write backend code on occasion. This is because frontend and backend developers often work hand in hand, and collaboration is fundamental to getting work done. So then why do we have such a strong separation between frontend development and the other parts of UX, such as design and research? Researchers, developers and designers often work together, but we rarely expect a developer to know anything about design or research. This is where full-stack UX comes in.",
+        "category": "🖊 Writing",
+        "action": {
+            "title": "Read article",
+            "link": "https://alexwhitedev.medium.com/the-importance-of-full-stack-ux-46d7843ae1a7"
+        }
+    },
+    {
+        "date": "3 May 2019",
+        "icon": "🖊",
+        "title": "Getting Started with Django & Windows the Easy way",
+        "description": "It used to be that developing in Python on Windows required a bunch of setup (installing Python, pip, setting up your PATH) and managing virtual environments. The days of this are over though with the latest update to Microsoft’s Visual Studio Code.",
+        "category": "🖊 Writing",
+        "action": {
+            "title": "Read article",
+            "link": "https://alexwhitedev.medium.com/getting-started-with-django-windows-the-easy-way-a18856355d8e"
         }
     },
     {
