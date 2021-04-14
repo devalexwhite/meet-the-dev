@@ -1,4 +1,15 @@
 [
+      {
+        "date": "12 Apr 2021",
+        "icon": "🖊",
+        "title": "Design & Research Fundamentals for Developers",
+        "description": "Presented a 4-hour, seminar style, workshop on the fundamentals of researching & designing the solutions your customers want.",
+        "category": "🗣 Talks",
+        "action": {
+            "title": "View Abstract",
+            "link": "https://www.2021.ng-conf.org/workshops/free%3A-design-%26-research-fundamentals-for-developers"
+        }
+    },
     {
         "date": "21 Jan 2021",
         "icon": "🖊",
